@@ -5,7 +5,7 @@ This is a Spring Boot application for fetching, caching, and converting currency
 ## Architecture 
 ![image](https://github.com/lgsurith/spring-currency-convertor/assets/117572209/13e4d41b-8f7e-4239-8a20-becc4330371b)
 
-## Installation
+## Link
 
 - Link
   ```bash
