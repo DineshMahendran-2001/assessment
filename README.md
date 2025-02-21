@@ -15,18 +15,10 @@ This is a Spring Boot application for fetching, caching, and converting currency
 
 ## Installation
 
-* Clone the Repository:
-  
+-Link
   ```bash
  https://github.com/DineshMahendran-2001/assessment
   cd spring-currency-convertor
-  ```
-
-* Ensure to have Java 17 installed or refer [setup](#setup).
-* Build and run the application.
-
-  ```bash
-  mvn spring-boot:run
   ```
 ## Setup
 
