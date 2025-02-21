@@ -1,4 +1,4 @@
-# Exchange Rates Application
+# Assessement
 This is a Spring Boot application for fetching, caching, and converting currency exchange rates. It uses Redis for caching and provides a REST API for accessing the exchange rates and converting currencies.
 
 
