@@ -38,14 +38,6 @@ This is a Spring Boot application for fetching, caching, and converting currency
   spring.redis.ssl = true
   ```
 
-## Endpoints
-
-| Endpoint           | Description                                                                                  |
-|--------------------|----------------------------------------------------------------------------------------------|
-| `/api/exchange/rates` | Obtains Realtime Rates of listed currencies.                                       |
-| `/api/exchange/convert`  | Converts any amount of currency to another using querying technique  |
-
-
 ## Results
 
 - Getting Real time rates :
