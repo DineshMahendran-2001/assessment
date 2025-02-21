@@ -5,27 +5,12 @@ This is a Spring Boot application for fetching, caching, and converting currency
 ## Architecture 
 ![image](https://github.com/lgsurith/spring-currency-convertor/assets/117572209/13e4d41b-8f7e-4239-8a20-becc4330371b)
 
-## Table of Contents 
-
-- [Installation](#installation)
-- [Setup](#setup)
-- [Endpoints](#endpoints)
-- [Configuration](#configuration)
-- [Architecture](#architecture)
-
 ## Installation
 
 - Link
   ```bash
   https://github.com/DineshMahendran-2001/assessment
   ```
-## Setup
-
-- Install the Coding Pack for Java - [here](https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java) 
-- Install Java Extension Pack and Spring Boot Extension Pack from [here.](https://code.visualstudio.com/docs/java/extensions)
-- Setup the Redis Database either by downloading [here](https://redis.io/downloads/) or you can access it directly by Redis Cloud from [here](https://app.redislabs.com/#/)
-- If you are using Redis Cloud , make sure to install Redis Insight from this [link](https://redis.io/insight/)
-
 ## Configuration
 - Make sure to setup the dependencies as given in the list from [Spring initializer](https://start.spring.io/) or directly from the IDE.
   
